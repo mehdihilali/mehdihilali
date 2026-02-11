@@ -67,7 +67,7 @@ I believe in the power of open-source and actively contribute to tech communitie
 
 ### **Ministry of Health and Social Protection (MSPS) Web Portal**  
 - Contributed to the design and development of the official web portal for the **Ministry of Health and Social Protection**.  
-- Developed the **front-end using React** and the **back-office**.  
+- Developed the **front-end** and the **back-office**.  
 - Implemented a **secure architecture**, managed the **Electronic Document Management (EDM) system**, and administered a **high-availability Microsoft SQL Server database**.
 
 ### **Proway – AI Career Guidance Platform**  
